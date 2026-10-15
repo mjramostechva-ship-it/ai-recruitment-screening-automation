@@ -36,7 +36,7 @@ Structured Output Parsers on each AI step keep results in a predictable format, 
 
 ## Non-Technical Documentation
 
-### How it works, in plain terms
+### How it works
 
 1. A candidate fills out a job application and uploads their resume.
 2. The system reads the resume and checks how well it fits the job.
